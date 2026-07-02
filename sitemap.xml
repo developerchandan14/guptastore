@@ -13,7 +13,28 @@
 
 <url>
   <loc>https://guptastore.co.in/</loc>
-  <lastmod>2026-06-25T08:00:57+00:00</lastmod>
+  <lastmod>2026-07-01T12:25:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://guptastore.co.in/about.html</loc>
+  <lastmod>2026-07-01T12:25:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://guptastore.co.in/services.html</loc>
+  <lastmod>2026-07-01T12:25:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://guptastore.co.in/contact.html</loc>
+  <lastmod>2026-07-01T12:25:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://guptastore.co.in/index.html</loc>
+  <lastmod>2026-07-01T12:25:17+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 </urlset>
